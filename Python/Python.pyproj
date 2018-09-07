@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cdceab0c-dea7-41b9-a9a1-70e7c3fb8033</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python.py</StartupFile>
+    <StartupFile>Lesson1_Pic_To_Str.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Python.py" />
+    <Compile Include="Lesson1_Pic_To_Str.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
